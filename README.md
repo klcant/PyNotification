@@ -1,8 +1,10 @@
 PyNotification
 ==============
 
-Python script(s) used to send notifications via SMTP, GTalk, and sms.
+Python script(s) used to send notifications via SMTP, GTalk, and SMS.
+
+I will keep the separate scripts so that you can do each part by alone (as well as have a combined script).
 
 Requirements:
 
-- xmpp.py
+- xmpp.py http://xmpppy.sourceforge.net/
